@@ -1,0 +1,14 @@
+{
+  "name": "random_gen",
+  "version": "1.0.0",
+  "description": "generating random numbers",
+  "main": "index.ts",
+  "scripts": {
+    "start": "ts-node src/index.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ts-node": "^10.9.2"
+  }
+}
